@@ -1,0 +1,8 @@
+{
+  "name": "github-actions-module2-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "mkdir -p build && echo Build completed > build/result.txt",
+    "test": "node test.js"
+  }
+}
